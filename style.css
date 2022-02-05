@@ -1,0 +1,74 @@
+﻿
+	.firstbox
+	{
+		width:800px;
+		height:400px;
+		box-sizing:border-box;
+		border-radius:22;
+		padding:100px 300px;
+		margin:auto;
+		margin-top:50px;
+
+		
+		margin-bottom:50px;
+		border-radius:20px;
+		box-shadow:rgba(0,0,0,0.2)0px 6px 15px 0px;
+	}
+
+	.firstbox.sectioncolor
+	{
+		color:white;
+		background-color:#4a63e7;
+
+	}
+
+	.secondsection
+	{
+		width:800px;
+		height:500px;
+		box-sizing:border-box;
+		border-radius:22;
+		padding:85px 60px;
+		margin:auto;
+		margin-top:50px;
+
+		
+		margin-bottom:50px;
+		border-radius:20px;
+		box-shadow:rgba(0,0,0,0.2)0px 6px 15px 0px;
+	}
+	.button
+	{
+		border-radius:50px;
+		border:none;
+		padding: 10px 10px;
+		
+	}
+	.SecondsectionBtn
+	{
+		padding: 0px 230px;
+	}
+	.button.red
+	{
+		color:white;
+		background:#ff5959;
+		transition: background-color .5s;
+		
+	}
+
+	button.red:hover
+	{
+		background:#4a63e7;
+		color:white;
+		
+		
+	}
+	table	{
+		margin:0px 120px;
+	}
+
+
+
+	
+	
+	
