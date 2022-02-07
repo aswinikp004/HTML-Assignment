@@ -103,4 +103,12 @@
 	{
 		color:grey;
 	}
+
+	div.p-box
+	{
+		border-radius:4px;
+		padding:20px;
+		margin-top:20px;
+		margin-bottom:20px;
+	}
 	
